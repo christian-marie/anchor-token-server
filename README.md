@@ -66,4 +66,4 @@ All interactions with Anchor Token Server itself and between the other parties
 contain sensitive information and MUST be protected with correctly configured
 TLS. All parties SHOULD validate the certificate used by Anchor Token Server.
 
-[diagram:interactions]: https://raw.githubusercontent.com/anchor/anchor-token-server/master/docs/architecture.png
+[diagram:interactions]: https://raw.githubusercontent.com/christian-marie/anchor-token-server/master/docs/architecture.png
